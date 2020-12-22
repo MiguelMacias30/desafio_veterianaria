@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  weight: MyString
+  hight: MyString
+  description: MyString
+  pet: one
+
+two:
+  weight: MyString
+  hight: MyString
+  description: MyString
+  pet: two
